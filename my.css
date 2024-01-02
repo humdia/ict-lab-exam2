@@ -1,0 +1,248 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+    }
+    .container0 {
+       width: 100%;
+       background-image: url(images/Air_University_Main_Campus\,_Islamabad.jpg); /* Replace 'your-image.jpg' with the path to your image */
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       height: 100vh; /* Adjust the height as needed */
+       display: flex;
+       align-items: center;
+       justify-content: center;
+      filter: blur(1px);
+     }
+    
+    
+    .sec-page{
+        text-align: center;
+        background-color: lightslategray;
+    }
+    .sec-page h1{
+    
+       font-size: 50px;
+       
+       
+    }
+    .sec-page p{
+    
+        font-size: 24px;
+        
+        
+    }
+    .CAMPUS-NEWS{
+        background-color: lightgrey;
+        text-align: center;
+    
+    }
+    .CAMPUS-NEWS h1{
+    
+        font-size: 50px;
+        
+        
+     }
+     .CAMPUS-NEWS p{
+     
+         font-size: 24px;
+         
+     }
+     .card-group{
+        padding: 20px;
+        
+     }
+     
+     .card-img-top{
+        border-radius: 249px;
+       
+     }
+     .ACADEMICS{
+        padding-top: 30px;
+        
+     }
+     .ACADEMICS h1{
+        text-align: center;
+        font-size: 49px;
+    
+     }
+     .ACADEMICS p{
+     
+        text-align: center;
+        font-size: 27px;
+        padding: 10px; 
+     }
+     .NEW-NAV{
+        font-size: 27px;
+        padding-top: 10px;
+       
+    
+    
+     }
+    .NEW-NAV p{
+       text-align: center;
+       font-size: 34px;
+    
+    }
+    .back{
+      position: absolute;
+      width: 100%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 100vh;
+      filter: blur(1.7px);
+      
+    
+    }
+    .content{
+       margin-top: 290px;
+       text-align: center;
+     
+    }
+    
+    .img{
+    
+       background-color: gray;
+    }
+    .container {
+       width: 100%;
+       background-image: url(images/full.jpg); /* Replace 'your-image.jpg' with the path to your image */
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       height: 100vh; /* Adjust the height as needed */
+       display: flex;
+       align-items: center;
+       justify-content: center;
+      filter: blur(1px);
+     }
+     .container h1{
+       
+       font-size: 24px;
+       margin-bottom: 400px;
+       text-align: center;
+     
+     }
+    
+     .RESEARCH{
+       padding-top: 70px;
+       text-align: center;
+       
+    }
+    .RESEARCH h1{
+       font-size: 60px;
+    
+    }
+    .RESEARCH p{
+       font-size: 30px;
+    
+    }
+    .INSTITUTIONS h2{
+       padding-left: 140px;
+    
+    }
+    .INSTITUTIONS p{
+    
+       font-size: 24px;
+       padding-left: 80px;
+    }
+    .Libraries h2{
+       padding-left: 140px;
+    }
+    
+    .headings-container {
+       display: flex; /* Activates Flexbox */
+       justify-content: space-between; /* Distributes space between headings */
+       padding: 20px; /* Adds some padding around the container */
+     }
+    
+     .heading {
+       flex: 1; /* Each heading will take equal amount of space */
+       text-align: center; /* Centers the text inside each heading */
+       padding: 10px; /* Adds some padding inside each heading */
+       font-size: 27px;
+       
+     }
+    
+     .Health-Care{
+       text-align: center;
+    
+     }
+     .Health-Care h1{
+       font-size: 60px;
+       padding-top: 40px;
+     }
+    
+     .Health-Care p{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 40px;
+     }
+    
+     .container1 {
+       width: 100%;
+       background-image: url(images/driving\ impact.jpg); /* Replace 'your-image.jpg' with the path to your image */
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       height: 100vh; /* Adjust the height as needed */
+       display: flex;
+       align-items: center;
+       justify-content: center;
+      filter: blur(0.4px);
+     }
+     .container h1{
+       
+       font-size: 24px;
+       margin-bottom: 400px;
+       text-align: center;
+     
+     }
+    
+     .Campus-Life{
+       text-align: center;
+    
+     }
+     .Campus-Life h1{
+       font-size: 60px;
+       padding-top: 40px;
+     }
+    
+     .Campus-Life p{
+       text-align: center;
+       font-size: 24px;
+       padding-bottom: 40px;
+     }
+    
+     .ADD{
+       text-align: center;
+    
+     }
+     .ADMISSION h1{
+       font-size: 70px;
+        text-align: center;
+        padding-left: 440px;
+       
+     }
+    
+     .ADMISSION p{
+       
+       font-size: 24px;
+       padding-bottom: 40px;
+       padding-left: 490px;
+     }
+    
+     .airimage{
+       width: 100%;
+       background-image: url(images/add.jpg); /* Replace 'your-image.jpg' with the path to your image */
+       background-size: cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       height: 100vh; /* Adjust the height as needed */
+       display: flex;
+       align-items: center;
+       justify-content: center;
+      filter: blur(1px);
+     }
